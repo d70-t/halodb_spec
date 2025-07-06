@@ -1,0 +1,17 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d6082b7f-d0fc-4760-a444-62a4b01d144f
+  title: HALO-DB spec
+  description: HALO-DB version 2
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+    
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+  logo_text: HALO-DB spec
