@@ -18,6 +18,10 @@ It contains a list of all [datasets](#dataset) which are considered part of the 
 * There may be multiple indices (e.g. for different applications, special tasks, cross-platform field campaigns)
   * but only *one* is called "HALO-DB"
 
+## prior art
+
+* [IPFS GeoIP](https://github.com/ipfs-shipyard/ipfs-geoip) - B-Tree search index for IP address locations on IPFS
+
 ## WPs
 
 * specify the format of the index datastructure
